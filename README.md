@@ -11,7 +11,6 @@
 
 1. Git clone the project repository on your local system
 ```
-git clone https://github.com/deepeshdm/Textract-Web-App.git
 ```
 
 2. Install dependencies in requirements.txt
